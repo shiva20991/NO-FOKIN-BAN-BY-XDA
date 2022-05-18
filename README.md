@@ -9,7 +9,7 @@
 
 ~~ 4. Fill The Required Field
 
-~ 5. Hit Create App & Ater Manage App 
+~ 5. Hit Create App & After Manage App 
 
 ~~ 6. Go To Resources & Enable 0$ Option 
 
